@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "kavenegar/php": "*"
+        "erfanhemmati/kavenegar-php": "*"
     },
     "autoload": {
         "psr-4": {
